@@ -1,0 +1,368 @@
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.exe
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.deps.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.runtimeconfig.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Humanizer.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Twilio.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.AssemblyReference.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfoInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfo.cs
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.StudentIdCard.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.build.StudentIdCard.Presentation.props
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Presentation.props
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Presentation.props
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\scopedcss\bundle\StudentIdCard.Presentation.styles.css
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CopyComplete
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\refint\StudentIdCard.Presentation.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.genruntimeconfig.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\ref\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.Development.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.exe
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.deps.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.runtimeconfig.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Humanizer.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.Data.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Twilio.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\ZstdSharp.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.StudentIdCard.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.build.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\scopedcss\bundle\StudentIdCard.Presentation.styles.css
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CopyComplete
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\refint\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.genruntimeconfig.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\ref\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.Development.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.exe
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.deps.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.runtimeconfig.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Humanizer.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.Data.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Twilio.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\ZstdSharp.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.StudentIdCard.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.build.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Presentation.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\scopedcss\bundle\StudentIdCard.Presentation.styles.css
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CopyComplete
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\refint\StudentIdCard.Presentation.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.genruntimeconfig.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\ref\StudentIdCard.Presentation.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\appsettings.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.exe
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.deps.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.runtimeconfig.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Humanizer.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.Data.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Twilio.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\ZstdSharp.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Application.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Persistence.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.AssemblyReference.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.StudentIdCard.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.build.StudentIdCard.Presentation.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Presentation.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Presentation.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\scopedcss\bundle\StudentIdCard.Presentation.styles.css
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.csproj.CopyComplete
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\refint\StudentIdCard.Presentation.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\StudentIdCard.Presentation.genruntimeconfig.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\obj\Release\net6.0\ref\StudentIdCard.Presentation.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Presentation\StudentIdCard.Presentation\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll

@@ -1,0 +1,57 @@
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.deps.json
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfoInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfo.cs
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\refint\StudentIdCard.Domain.dll
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\source\repos\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\ref\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.deps.json
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\refint\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\ref\StudentIdCard.Domain.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.deps.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\refint\StudentIdCard.Domain.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\ref\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.deps.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\refint\StudentIdCard.Domain.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\ref\StudentIdCard.Domain.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.deps.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\bin\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\refint\StudentIdCard.Domain.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\StudentIdCard.Domain.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Core\StudentIdCard.Domain\obj\Debug\net6.0\ref\StudentIdCard.Domain.dll

@@ -1,0 +1,11 @@
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\bin\Release\net6.0\StudentIdCard.Infrastructure.deps.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\bin\Release\net6.0\StudentIdCard.Infrastructure.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\bin\Release\net6.0\StudentIdCard.Infrastructure.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\refint\StudentIdCard.Infrastructure.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\StudentIdCard.Infrastructure.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard\Infrastructure\StudentIdCard.Infrastructure\obj\Release\net6.0\ref\StudentIdCard.Infrastructure.dll

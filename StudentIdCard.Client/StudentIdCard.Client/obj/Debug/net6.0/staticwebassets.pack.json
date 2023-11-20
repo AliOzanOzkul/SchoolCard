@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentIdCard.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentIdCard.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\css\\application.min.css",
+      "PackagePath": "staticwebassets\\css\\application.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\css\\lib\\getmdl-select.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\getmdl-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\css\\lib\\nv.d3.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\nv.d3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\072d2508-1647-4549-a8d2-305b31800769.jpeg",
+      "PackagePath": "staticwebassets\\images\\072d2508-1647-4549-a8d2-305b31800769.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\0ac889ed-d234-4f95-a57f-06d85e23419b.jpeg",
+      "PackagePath": "staticwebassets\\images\\0ac889ed-d234-4f95-a57f-06d85e23419b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\2c35509a-e709-4bb9-9d12-018f975b299c.jpeg",
+      "PackagePath": "staticwebassets\\images\\2c35509a-e709-4bb9-9d12-018f975b299c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\3204e458-d485-431c-ac49-dd0e7d676553.jpeg",
+      "PackagePath": "staticwebassets\\images\\3204e458-d485-431c-ac49-dd0e7d676553.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\404.svg",
+      "PackagePath": "staticwebassets\\images\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\681c4a1d-ecaf-48b4-a507-a8144d39c7bf.jpeg",
+      "PackagePath": "staticwebassets\\images\\681c4a1d-ecaf-48b4-a507-a8144d39c7bf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\6ac9e202-a3c8-4b8e-b60b-6ddd79e498fc.jpeg",
+      "PackagePath": "staticwebassets\\images\\6ac9e202-a3c8-4b8e-b60b-6ddd79e498fc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\9cb0502b-a110-4313-b1b7-a562dbf5b32a.jpeg",
+      "PackagePath": "staticwebassets\\images\\9cb0502b-a110-4313-b1b7-a562dbf5b32a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\Bobby.PNG",
+      "PackagePath": "staticwebassets\\images\\Bobby.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\DB_16х16.png",
+      "PackagePath": "staticwebassets\\images\\DB_16х16.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\Dark_background_1920x1080.png",
+      "PackagePath": "staticwebassets\\images\\Dark_background_1920x1080.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\Icon.png",
+      "PackagePath": "staticwebassets\\images\\Icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\Icon_header.png",
+      "PackagePath": "staticwebassets\\images\\Icon_header.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\active_marker.png",
+      "PackagePath": "staticwebassets\\images\\active_marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\b60103bc-9788-41c1-b288-03921aef3996.jpeg",
+      "PackagePath": "staticwebassets\\images\\b60103bc-9788-41c1-b288-03921aef3996.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\buffer.svg",
+      "PackagePath": "staticwebassets\\images\\buffer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\card.jpg",
+      "PackagePath": "staticwebassets\\images\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\cloudy_and_snow.svg",
+      "PackagePath": "staticwebassets\\images\\cloudy_and_snow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\cotoneaster.jpg",
+      "PackagePath": "staticwebassets\\images\\cotoneaster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\gina-torres.png",
+      "PackagePath": "staticwebassets\\images\\gina-torres.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\imgo.png",
+      "PackagePath": "staticwebassets\\images\\imgo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\istanbul.jpg",
+      "PackagePath": "staticwebassets\\images\\istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\map_target_images_sprite.png",
+      "PackagePath": "staticwebassets\\images\\map_target_images_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\marker.png",
+      "PackagePath": "staticwebassets\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\nathan-fillion.png",
+      "PackagePath": "staticwebassets\\images\\nathan-fillion.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\robot.png",
+      "PackagePath": "staticwebassets\\images\\robot.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\sao_paulo.jpg",
+      "PackagePath": "staticwebassets\\images\\sao_paulo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\skype.svg",
+      "PackagePath": "staticwebassets\\images\\skype.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\tick-mask.svg",
+      "PackagePath": "staticwebassets\\images\\tick-mask.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\tick.svg",
+      "PackagePath": "staticwebassets\\images\\tick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\tick_dark.svg",
+      "PackagePath": "staticwebassets\\images\\tick_dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\tokyo.jpg",
+      "PackagePath": "staticwebassets\\images\\tokyo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\tudyk.png",
+      "PackagePath": "staticwebassets\\images\\tudyk.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\userphoto.jpg",
+      "PackagePath": "staticwebassets\\images\\userphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\watch_white.svg",
+      "PackagePath": "staticwebassets\\images\\watch_white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\images\\weather_bck.png",
+      "PackagePath": "staticwebassets\\images\\weather_bck.png"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\getmdl-select.min.js",
+      "PackagePath": "staticwebassets\\js\\getmdl-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\layout\\layout.min.js",
+      "PackagePath": "staticwebassets\\js\\layout\\layout.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\material.min.js",
+      "PackagePath": "staticwebassets\\js\\material.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\nv.d3.min.js",
+      "PackagePath": "staticwebassets\\js\\nv.d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\scroll\\scroll.min.js",
+      "PackagePath": "staticwebassets\\js\\scroll\\scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\charts\\discreteBarChart.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\charts\\discreteBarChart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\charts\\linePlusBarChart.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\charts\\linePlusBarChart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\charts\\stackedBarChart.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\charts\\stackedBarChart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\employer-form\\employer-form.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\employer-form\\employer-form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\line-chart\\line-charts-nvd3.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\line-chart\\line-charts-nvd3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\map\\maps.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\map\\maps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\pie-chart\\pie-charts-nvd3.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\pie-chart\\pie-charts-nvd3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\table\\table.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\table\\table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\js\\widgets\\todo\\todo.min.js",
+      "PackagePath": "staticwebassets\\js\\widgets\\todo\\todo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ozan\\Desktop\\Proje\\StudentIdCard.Client\\StudentIdCard.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentIdCard.Client.props",
+      "PackagePath": "build\\StudentIdCard.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentIdCard.Client.props",
+      "PackagePath": "buildMultiTargeting\\StudentIdCard.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentIdCard.Client.props",
+      "PackagePath": "buildTransitive\\StudentIdCard.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

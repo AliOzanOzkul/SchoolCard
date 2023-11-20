@@ -1,0 +1,934 @@
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.staticwebassets.runtime.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.exe
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.deps.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.runtimeconfig.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfoInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfo.cs
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cs
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentIdCard.Client.props
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Client.props
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Client.props
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\bundle\StudentIdCard.Client.styles.css
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\projectbundle\StudentIdCard.Client.bundle.scp.css
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\refint\StudentIdCard.Client.dll
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.genruntimeconfig.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\ref\StudentIdCard.Client.dll
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.AssemblyReference.cache
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ozan\source\repos\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.staticwebassets.runtime.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.exe
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.deps.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentIdCard.Client.props
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Client.props
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Client.props
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\bundle\StudentIdCard.Client.styles.css
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\projectbundle\StudentIdCard.Client.bundle.scp.css
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\refint\StudentIdCard.Client.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\ref\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.staticwebassets.runtime.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.exe
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.deps.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.runtimeconfig.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cs
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\bundle\StudentIdCard.Client.styles.css
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\projectbundle\StudentIdCard.Client.bundle.scp.css
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CopyComplete
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\refint\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.genruntimeconfig.cache
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\ref\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OGUZHAN\Desktop\studentcard\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.staticwebassets.runtime.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.exe
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.deps.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.runtimeconfig.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.AssemblyReference.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfoInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfo.cs
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CoreCompileInputs.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cs
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Client.props
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\bundle\StudentIdCard.Client.styles.css
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\projectbundle\StudentIdCard.Client.bundle.scp.css
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CopyComplete
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\refint\StudentIdCard.Client.dll
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.genruntimeconfig.cache
+C:\Users\hakan demir\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\ref\StudentIdCard.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\appsettings.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.staticwebassets.runtime.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.exe
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.deps.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.runtimeconfig.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.AssemblyReference.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.RazorAssemblyInfo.cs
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.StudentIdCard.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentIdCard.Client.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentIdCard.Client.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentIdCard.Client.props
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\bundle\StudentIdCard.Client.styles.css
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\scopedcss\projectbundle\StudentIdCard.Client.bundle.scp.css
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.csproj.CopyComplete
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\refint\StudentIdCard.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.pdb
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\StudentIdCard.Client.genruntimeconfig.cache
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\obj\Debug\net6.0\ref\StudentIdCard.Client.dll
+C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll

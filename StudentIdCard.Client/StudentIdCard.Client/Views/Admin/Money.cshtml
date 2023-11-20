@@ -1,0 +1,58 @@
+﻿
+<div class="mdl-layout mdl-js-layout color--gray is-small-screen login">
+    <main class="mdl-layout__content">
+        <div class="mdl-card mdl-card__login mdl-shadow--2dp">
+            <div class="mdl-card__supporting-text color--dark-gray">
+                <div class="mdl-grid">
+                    <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                        <span class="mdl-card__title-text text-color--smooth-gray">School App</span>
+                    </div>
+                    <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                        <span class="login-name text-color--white">Öğrenci Bilgileri</span>
+                    </div>
+                    <form asp-action="Money" method="post">
+                        <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <input class="mdl-textfield__input" type="text" required id="name" placeholder="ID" name="id">
+                                <label class="mdl-textfield__label" for="name">Kart Numarası</label>
+
+                            </div>
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <input class="mdl-textfield__input" type="text" required id="name" placeholder="Tutar" name="money">
+                                <label class="mdl-textfield__label" for="name">Para Miktarı</label>
+
+                            </div>
+
+                        </div>
+                        <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone submit-cell">
+
+                            <div class="mdl-layout-spacer"></div>
+                            <button type="submit" class="mdl-button mdl-js-button mdl-button--raised color--light-blue">
+                                Karta Para Yükle
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+
+<script src="~/js/d3.min.js"></script>
+<script src="~/js/getmdl-select.min.js"></script>
+<script src="~/js/material.min.js"></script>
+<script src="~/js/nv.d3.min.js"></script>
+<script src="~/js/layout/layout.min.js"></script>
+<script src="~/js/scroll/scroll.min.js"></script>
+<script src="~/js/widgets/charts/discreteBarChart.min.js"></script>
+<script src="~/js/widgets/charts/linePlusBarChart.min.js"></script>
+<script src="~/js/widgets/charts/stackedBarChart.min.js"></script>
+<script src="~/js/widgets/employer-form/employer-form.min.js"></script>
+<script src="~/js/widgets/line-chart/line-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/map/maps.min.js"></script>
+<script src="~/js/widgets/pie-chart/pie-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/table/table.min.js"></script>
+<script src="~/js/widgets/todo/todo.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

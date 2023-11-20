@@ -1,0 +1,63 @@
+﻿@model Card
+@{
+    Layout = "_ParentLayout";
+    var photoPath = Model.PhotoPath == null ? "userphoto.jpg" : Model.PhotoPath;
+}
+<div class="mdl-layout mdl-js-layout color--gray is-small-screen login">
+    <main class="mdl-layout__content">
+        <div class="mdl-card mdl-card__login mdl-shadow--2dp">
+   
+            <div class="mdl-card__supporting-text color--dark-gray">
+                <div class="mdl-grid">
+                    <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                        <span class="mdl-card__title-text text-color--smooth-gray">School App</span>
+                    </div>
+                    <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                        <span class="login-name text-color--white">Öğrenci Bilgileri</span>
+                    </div>
+                    <img src="~/images/@photoPath" alt="School Logo" class="logo-image" style="width: 200px;" />
+
+                    <form method="post" asp-action="UploadFile" enctype="multipart/form-data">
+                
+                        <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone">
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <label class="mdl-textfield__input" type="text" required id="name" placeholder="Ozan">@Model.Name</label>
+                                <label class="mdl-textfield__label" for="name">Öğrenci Adı</label>
+                      
+                            </div>
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <label class="mdl-textfield__input" type="text" required id="name" placeholder="Ozan">@Model.Surname</label>
+                                <label class="mdl-textfield__label" for="name">Öğrenci Soyadı</label>
+                       
+                            </div>
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <label class="mdl-textfield__input" type="text" required id="name" placeholder="Ozan">@Model.SchoolId</label>
+                                <label class="mdl-textfield__label" for="name">Öğrenci Numarası</label>
+                            </div>
+                            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label full-size">
+                                <label class="mdl-textfield__input" type="text" required id="name" placeholder="Ozan">@Model.Balance₺</label>
+                                <label class="mdl-textfield__label" for="name">Kart Bakiyesi</label>
+                            </div>
+                        </div>
+                        <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone submit-cell">
+                          
+                            <div class="mdl-layout-spacer"></div>
+                            @* <button type="submit" class="mdl-button mdl-js-button mdl-button--raised color--light-blue" asp-action="Money">
+                                Karta Para Yükle
+                            </button> *@
+
+                            @* <label class="btn btn-warning">
+                                Dosya Seç<input type="file" name="file" class="d-none" />
+                            </label>
+                            <button type="submit" class="btn btn-success">
+                                Dosya Yükle
+                            </button> *@
+                          
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+

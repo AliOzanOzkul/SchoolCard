@@ -1,0 +1,53 @@
+﻿@model IEnumerable<StudentIdCard.Client.Models.GetFood>
+
+@{
+    Layout = "_ParentLayout";
+    ViewData["Title"] = "ProductList";
+    int i = 0;
+    
+}
+
+<div class="mdl-cell mdl-cell--12-col-desktop mdl-cell--12-col-tablet mdl-cell--4-col-phone ">
+    <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp projects-table">
+        <thead>
+            <tr>
+                <th class="mdl-data-table__cell--non-numeric">#</th>
+                <th class="mdl-data-table__cell--non-numeric">Alınma tarihi</th>
+                <th class="mdl-data-table__cell--non-numeric">Öğün Adı</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                i++;
+                <tr>
+                    <td class="mdl-data-table__cell--non-numeric">@i</td>
+                    <td class="mdl-data-table__cell--non-numeric">@DateTime.Now.ToShortDateString()</td>
+                    <td class="mdl-data-table__cell--non-numeric">@item.Name</td>
+
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>
+<script src="~/js/d3.min.js"></script>
+<script src="~/js/getmdl-select.min.js"></script>
+<script src="~/js/material.min.js"></script>
+<script src="~/js/nv.d3.min.js"></script>
+<script src="~/js/layout/layout.min.js"></script>
+<script src="~/js/scroll/scroll.min.js"></script>
+<script src="~/js/widgets/charts/discreteBarChart.min.js"></script>
+<script src="~/js/widgets/charts/linePlusBarChart.min.js"></script>
+<script src="~/js/widgets/charts/stackedBarChart.min.js"></script>
+<script src="~/js/widgets/employer-form/employer-form.min.js"></script>
+<script src="~/js/widgets/line-chart/line-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/map/maps.min.js"></script>
+<script src="~/js/widgets/pie-chart/pie-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/table/table.min.js"></script>
+<script src="~/js/widgets/todo/todo.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

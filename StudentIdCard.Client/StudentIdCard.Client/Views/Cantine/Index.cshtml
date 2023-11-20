@@ -1,0 +1,84 @@
+﻿@model List<ProductView>
+@if (ViewBag.Message is not null)
+{
+    <p>ViewBag.Message</p>
+}
+<div class="mdl-cell mdl-cell--7-col-desktop mdl-cell--7-col-tablet mdl-cell--4-col-phone">
+    <div class="mdl-card mdl-shadow--2dp" >
+        <div class="mdl-card mdl-shadow--2dp" id="buttonDiv">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect button--colored-teal" id="filteButton" onclick='FilterProduct()'>Filitrele</button>
+        </div>
+        <div class="mdl-card__title">
+            <h1 class="mdl-card__title-text">Ürünler</h1>
+        </div>
+        
+        <div class="mdl-card__supporting-text no-padding">
+            <table class="mdl-data-table mdl-js-data-table">
+                <thead>
+                    <tr>
+                        <th class="mdl-data-table__cell--non-numeric">#</th>
+                        <th class="mdl-data-table__cell--non-numeric">Ürün</th>
+                        <th class="mdl-data-table__cell--non-numeric">Fiyat</th>
+                        <th class="mdl-data-table__cell--non-numeric"></th>
+                    </tr>
+                </thead>
+                <tbody class="bodyTable" id="mainBody">
+                   
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="mdl-data-table__cell--non-numeric"></td>
+                            <td class="mdl-data-table__cell--non-numeric">@item.Name</td>
+                            <td class="mdl-data-table__cell--non-numeric">@item.Price ₺</td>
+                            <td class="mdl-data-table__cell--non-numeric"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect button--colored-teal" onclick='AddToCart(@Html.Raw(Json.Serialize(item)))'>Sepete Ekle</button></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="mdl-cell mdl-cell--5-col-desktop mdl-cell--5-col-tablet mdl-cell--4-col-phone">
+    <div class="mdl-card mdl-shadow--2dp">
+        <div class="mdl-card__title" style="justify-content:space-between">
+            <h1 class="mdl-card__title-text">Sepet</h1>
+            <h6 class="mdl-card__title-text">Toplam :</h6>
+            <p id="amounth" class="mdl-card__title-text"></p>
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect button--colored-green" onclick="BuyItems()">Satın Al</button>
+        </div>
+        <div class="mdl-card__supporting-text no-padding">
+            <table class="mdl-data-table mdl-js-data-table">
+                <thead>
+                    <tr>
+                        <th class="mdl-data-table__cell--non-numeric">#</th>
+                        <th class="mdl-data-table__cell--non-numeric">Ürün</th>
+                        <th class="mdl-data-table__cell--non-numeric">Adet</th>
+                        <th class="mdl-data-table__cell--non-numeric">tutar</th>
+                        <th class="mdl-data-table__cell--non-numeric"></th>
+                    </tr>
+                </thead>
+                <tbody id="cartBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/d3.min.js"></script>
+<script src="~/js/getmdl-select.min.js"></script>
+<script src="~/js/material.min.js"></script>
+<script src="~/js/nv.d3.min.js"></script>
+<script src="~/js/layout/layout.min.js"></script>
+<script src="~/js/scroll/scroll.min.js"></script>
+<script src="~/js/widgets/charts/discreteBarChart.min.js"></script>
+<script src="~/js/widgets/charts/linePlusBarChart.min.js"></script>
+<script src="~/js/widgets/charts/stackedBarChart.min.js"></script>
+<script src="~/js/widgets/employer-form/employer-form.min.js"></script>
+<script src="~/js/widgets/line-chart/line-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/map/maps.min.js"></script>
+<script src="~/js/widgets/pie-chart/pie-charts-nvd3.min.js"></script>
+<script src="~/js/widgets/table/table.min.js"></script>
+<script src="~/js/widgets/todo/todo.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

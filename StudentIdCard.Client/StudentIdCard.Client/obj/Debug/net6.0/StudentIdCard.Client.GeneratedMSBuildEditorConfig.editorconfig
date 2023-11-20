@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentIdCard.Client
+build_property.RootNamespace = StudentIdCard.Client
+build_property.ProjectDir = C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ozan\Desktop\Proje\StudentIdCard.Client\StudentIdCard.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Admin/CreateCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Admin/GetAllCards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QWxsQ2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Admin/GetAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QXR0ZW5kYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Admin/Money.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTW9uZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Cafeteria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FmZXRlcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Cantine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FudGluZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Cantine/PayToBill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FudGluZVxQYXlUb0JpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Components/_Heeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xfSGVlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Components/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xfU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Home/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Parent/GetDailyFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XEdldERhaWx5Rm9vZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Parent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Parent/Money.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XE1vbmV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Shared/_ParentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJlbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ozan/Desktop/Proje/StudentIdCard.Client/StudentIdCard.Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-abjouyueue
